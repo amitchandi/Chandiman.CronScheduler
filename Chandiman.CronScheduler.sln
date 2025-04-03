@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chandiman.CronScheduler", "Chandiman.CronScheduler\Chandiman.CronScheduler.csproj", "{958E804D-9C7E-4BE0-9F5C-DD9AA5CC8969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{F1CBC22F-CBFD-4688-80D4-3900D94FCF04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958E804D-9C7E-4BE0-9F5C-DD9AA5CC8969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958E804D-9C7E-4BE0-9F5C-DD9AA5CC8969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958E804D-9C7E-4BE0-9F5C-DD9AA5CC8969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958E804D-9C7E-4BE0-9F5C-DD9AA5CC8969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1CBC22F-CBFD-4688-80D4-3900D94FCF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CBC22F-CBFD-4688-80D4-3900D94FCF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CBC22F-CBFD-4688-80D4-3900D94FCF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CBC22F-CBFD-4688-80D4-3900D94FCF04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA2F2932-7A1E-477D-BDBB-F942470A6F0A}
+	EndGlobalSection
+EndGlobal
